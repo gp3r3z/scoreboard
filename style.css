@@ -1,0 +1,20 @@
+.bg-img {
+  background-image: url("https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1923&q=80");
+  min-height: 90vh;
+  background-position: center;
+  background-size: auto;
+}
+
+.score-board {
+  background-color: rgba(0, 0, 255, 0.26);
+  border: 3px solid rgb(0, 136, 255);
+  min-height: 70vh;
+}
+
+.score {
+  background-color: rgba(0, 0, 255, 0.26);
+  border: 3px solid rgb(0, 136, 255);
+  min-height: 45vh;
+}
+
+
